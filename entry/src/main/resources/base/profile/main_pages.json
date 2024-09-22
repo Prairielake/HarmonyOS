@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/Welcome",
+    "pages/TabIndex",
+    "pages/Detail",
+    "pages/Login"
+  ]
+}

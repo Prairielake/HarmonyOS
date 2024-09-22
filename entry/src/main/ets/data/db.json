@@ -1,0 +1,251 @@
+{
+  "homeCateList": [
+    [
+      {
+        "id": 1,
+        "label": "淘票票",
+        "img": "https://gw.alicdn.com/imgextra/i2/O1CN01qrrUAN1wRjrhtfk6Q_!!6000000006305-2-tps-183-144.png_q90.jpg_.webp"
+      },
+      {
+        "id": 2,
+        "label": "飞猪旅行",
+        "img": "https://gw.alicdn.com/imgextra/i3/O1CN01ULqxIg1sMvM4cBneE_!!6000000005753-2-tps-183-144.png_q90.jpg_.webp"
+      },
+      {
+        "id": 3,
+        "label": "连连消",
+        "img": "https://gw.alicdn.com/imgextra/i1/O1CN01ExCBy027VMvYQPjuN_!!6000000007802-2-tps-183-144.png_q90.jpg_.webp"
+      },
+      {
+        "id": 4,
+        "label": "U先试用",
+        "img": "https://gw.alicdn.com/tfs/TB1XRlKOXzqK1RjSZFCXXbbxVXa-183-144.png_q90.jpg_.webp"
+      },
+      {
+        "id": 5,
+        "label": "聚划算",
+        "img": "https://gw.alicdn.com/imgextra/i1/O1CN01Lil7RM1U7JCGBNT1U_!!6000000002470-2-tps-183-144.png_q90.jpg_.webp"
+      }
+    ],
+    [
+      {
+        "id": 6,
+        "label": "小黑盒",
+        "img": "https://gw.alicdn.com/imgextra/i4/O1CN01pFtEB01bCWtK2kxcc_!!6000000003429-2-tps-183-144.png_q90.jpg_.webp"
+      },
+      {
+        "id": 7,
+        "label": "阿里拍卖",
+        "img": "https://gw.alicdn.com/imgextra/i2/O1CN01ZOR1cv1yjGFORGh1V_!!6000000006614-2-tps-183-144.png_q90.jpg_.webp"
+      },
+      {
+        "id": 8,
+        "label": "斗地主",
+        "img": "https://gw.alicdn.com/imgextra/i2/O1CN01fV2JYQ1CzCaMFAxwK_!!6000000000151-2-tps-183-144.png_q90.jpg_.webp"
+      },
+      {
+        "id": 9,
+        "label": "极有家",
+        "img": "https://gw.alicdn.com/imgextra/i3/O1CN012qB5SI1X5QJZt2Qsv_!!6000000002872-2-tps-183-144.png_q90.jpg_.webp"
+      },
+      {
+        "id": 10,
+        "label": "淘工厂",
+        "img": "https://gw.alicdn.com/imgextra/i1/O1CN01Iqydmq1tOaWhDcEog_!!6000000005892-2-tps-183-144.png_q90.jpg_.webp"
+      }
+    ]
+  ],
+  "goodList": [
+    {
+      "id": 1,
+      "img": "https://gw.alicdn.com/bao/uploaded/i3/801836345/O1CN01yFleMf1wk3zmxBejU_!!0-item_pic.jpg_320x320q90.jpg_.webp",
+      "desc": "藏生堂藏奥堂川圣堂藏御堂香柏木足浴泡脚木桶家用木质高深桶熏蒸",
+      "price": 136,
+      "count": "200"
+    },
+    {
+      "id": 2,
+      "img": "https://gw.alicdn.com/bao/uploaded/i3/6000000002164/O1CN01KNnzJa1RrA3Wvf4yj_!!6000000002164-0-sm.jpg_320x320q90.jpg_.webp",
+      "desc": "蒂安黑胡椒粒现磨意大利进口研磨瓶46g烧烤牛排意面健身",
+      "price": 32.8,
+      "count": "500"
+    },
+    {
+      "id": 3,
+      "img": "https://gw.alicdn.com/bao/uploaded/i1/924188673/O1CN015pzi0E2DwHw3GT0z6_!!924188673.jpg_320x320q90.jpg_.webp",
+      "desc": "美国通用磨坊cheerios原味蜂蜜燕五谷麦圈甜麦圈即食冲饮谷物早餐",
+      "price": 54.44,
+      "count": "200"
+    },
+    {
+      "id": 4,
+      "img": "https://gw.alicdn.com/bao/uploaded/i3/722149499/O1CN01kR5Ecs2K2b2Vk9R4W_!!722149499.jpg_320x320q90.jpg_.webp",
+      "desc": "杭州天竺山天然环保无漆餐具家用老字号老底子中式竹筷1把8双包邮",
+      "price": 30,
+      "count": "100"
+    },
+    {
+      "id": 5,
+      "img": "https://gw.alicdn.com/bao/uploaded/i2/1030251865/O1CN01IZqEpo1PeDSJXL2IG_!!0-item_pic.jpg_320x320q90.jpg_.webp",
+      "desc": "辣味生活四川私房菜成都特产零食 自贡冷吃兔 即食小吃麻辣兔肉丁",
+      "price": 27.8,
+      "count": "100"
+    },
+    {
+      "id": 6,
+      "img": "https://gw.alicdn.com/bao/uploaded/i1/750593839/O1CN01sTYxL21eEJBqtkRBE_!!750593839.jpg_320x320q90.jpg_.webp",
+      "desc": "咸橄榄条青津果干无核盐津橄榄甘草橄榄福建厦门特产菩提丸片散装",
+      "price": 16.8,
+      "count": "200"
+    },
+    {
+      "id": 7,
+      "img": "https://gw.alicdn.com/bao/uploaded/i1/100008692/O1CN017esBef2E4zEFbuy20_!!100008692.jpg_320x320q90.jpg_.webp",
+      "desc": "日本螺旋双头棉签活性炭黑色棉签棒 脱脂棉棉棒螺纹掏耳勺180支装",
+      "price": 9.9,
+      "count": "200"
+    },
+    {
+      "id": 8,
+      "img": "https://gw.alicdn.com/bao/uploaded/i4/723332062/O1CN01zpAU741R6ReEc51LX_!!723332062.jpg_320x320q90.jpg_.webp",
+      "desc": "清仓处理宣纸书法专用纸半生半熟毛笔字练习纸国画生宣熟宣批发",
+      "price": 29,
+      "count": "200"
+    },
+    {
+      "id": 9,
+      "img": "https://gw.alicdn.com/bao/uploaded/i3/705069780/O1CN01BOx4D02M7IAFm8p6o_!!0-item_pic.jpg_320x320q90.jpg_.webp",
+      "desc": "转换插头迷你一转三插座转换器多功能插座家用多孔扩展插板不带线",
+      "price": 29,
+      "count": "50"
+    },
+    {
+      "id": 10,
+      "img": "https://gw.alicdn.com/bao/uploaded/i1/6000000006564/O1CN01O7aQyb1yMMkJhgMZQ_!!6000000006564-0-sm.jpg_320x320q90.jpg_.webp",
+      "desc": "海天酱油调味品老抽酱油1900ml厨房提鲜好上色红烧炒菜调味调料",
+      "price": 16.5,
+      "count": "5000"
+    },
+    {
+      "id": 11,
+      "img": "https://gw.alicdn.com/bao/uploaded/i1/75300233/O1CN01DTONDI1DaksSHaWPC_!!75300233.jpg_320x320q90.jpg_.webp",
+      "desc": "500克烤虾干虾即食 大对虾干大号特大号海鲜干货孕妇天然食品零食",
+      "price": 45.8,
+      "count": "1000"
+    },
+    {
+      "id": 12,
+      "img": "https://gw.alicdn.com/bao/uploaded/i1/2086494918/O1CN016Fm3GJ1mCUWWrXhuJ_!!0-item_pic.jpg_320x320q90.jpg_.webp",
+      "desc": "意大利施达超细纤维平板拖拖把家用一拖净瓷砖地拖粘扣式大号尘推",
+      "price": 45,
+      "count": "200"
+    },
+    {
+      "id": 13,
+      "img": "https://gw.alicdn.com/bao/uploaded/i3/1690425481/O1CN01NT4r0P1qMLnwZOgpZ_!!0-item_pic.jpg_320x320q90.jpg_.webp",
+      "desc": "赋比兴宣纸 国家非遗 四尺书法专用作品纸 国画作品生宣纸 六尺三尺半生半熟宣纸 加厚整张手工安徽毛笔宣纸",
+      "price": 108,
+      "count": "200"
+    },
+    {
+      "id": 14,
+      "img": "https://gw.alicdn.com/bao/uploaded/i4/6000000005154/O1CN013s3MqA1nwaIAWaZom_!!6000000005154-0-sm.jpg_320x320q90.jpg_.webp",
+      "desc": "多力低芥酸小榨浓香菜籽油5L非转基因物理压榨食用油",
+      "price": 115.9,
+      "count": "500"
+    },
+    {
+      "id": 15,
+      "img": "https://gw.alicdn.com/bao/uploaded/i1/1783198133/O1CN01qI2T4J29wyAVkHPth_!!1783198133.jpg_320x320q90.jpg_.webp",
+      "desc": "楼兰蜜语灰枣夹核桃仁770g新疆特产抱抱果孕妇红枣零食礼盒整箱",
+      "price": 39.9,
+      "count": "200"
+    },
+    {
+      "id": 16,
+      "img": "https://gw.alicdn.com/bao/uploaded/i2/419661231/TB2n5eGpYFkpuFjy1XcXXclapXa_!!419661231.jpg_320x320q90.jpg_.webp",
+      "desc": "钛金304不锈钢吸管勺子套装 创意德国马黛茶过滤器果汁茶漏3支装",
+      "price": 21.94,
+      "count": "200"
+    },
+    {
+      "id": 17,
+      "img": "https://gw.alicdn.com/bao/uploaded/i2/6000000001213/O1CN01e0Ee0s1KpbOQXcLw3_!!6000000001213-0-sm.jpg_320x320q90.jpg_.webp",
+      "desc": "光明优加纯牛奶250ml*12盒/整箱学生儿童宝宝营养早餐奶纯奶",
+      "price": 52.9,
+      "count": "500"
+    },
+    {
+      "id": 18,
+      "img": "https://gw.alicdn.com/bao/uploaded/i3/34583232/TB2Tp.ThvNNTKJjSspcXXb4KVXa_!!34583232.jpg_320x320q90.jpg_.webp",
+      "desc": "大容量陶瓷带盖大茶杯1800毫升超大号霸王杯子凉水杯景德镇泡茶杯",
+      "price": 19.8,
+      "count": "200"
+    },
+    {
+      "id": 19,
+      "img": "https://gw.alicdn.com/bao/uploaded/i1/330464566/TB2qPHTqXXXXXbjXXXXXXXXXXXX_!!330464566.png_320x320q90.jpg_.webp",
+      "desc": "加厚1.5米2米两用梯子家用人字梯折叠梯单边直梯钢管梯伸缩爬楼梯",
+      "price": 118,
+      "count": "100"
+    },
+    {
+      "id": 20,
+      "img": "https://gw.alicdn.com/bao/uploaded/i3/441068731/O1CN01tvUwbH2EMqp9bLFhu_!!0-item_pic.jpg_320x320q90.jpg_.webp",
+      "desc": "公牛转换器插座插头国标旅行转换插头一转二电源转换插座国内外",
+      "price": 24.9,
+      "count": "1000"
+    },
+    {
+      "id": 21,
+      "img": "https://gw.alicdn.com/bao/uploaded/i4/2058864678/O1CN01nwF73i1kQZiTvkiLL_!!0-item_pic.jpg_320x320q90.jpg_.webp",
+      "desc": "21cake黑白巧克力慕斯生日蛋糕含酒切块纪念日动物奶油同城配送",
+      "price": 268,
+      "count": "100"
+    },
+    {
+      "id": 22,
+      "img": "https://gw.alicdn.com/bao/uploaded/i3/2273996718/O1CN0117Bgve1zUtRJpDLjW_!!2273996718.jpg_320x320q90.jpg_.webp",
+      "desc": "道闸栏杆小区停车场门卫门禁挡车栅栏起落升降八角伸缩直杆门杆子",
+      "price": 80,
+      "count": "200"
+    },
+    {
+      "id": 23,
+      "img": "https://gw.alicdn.com/bao/uploaded/i3/1706137670/O1CN01y3I2Ig26Wuedss9kn_!!1706137670.jpg_320x320q90.jpg_.webp",
+      "desc": "梅干菜干货无沙正宗梅菜干浙江绍兴特产霉菜扣肉农家免洗低盐500g",
+      "price": 39,
+      "count": "1000"
+    },
+    {
+      "id": 24,
+      "img": "https://gw.alicdn.com/bao/uploaded/i2/12798252/O1CN01U5laS22ApT0AralBb_!!2-item_pic.png_320x320q90.jpg_.webp",
+      "desc": "18CM大理石不粘奶锅加厚日式煮面锅 雪平锅麦饭石辅食锅电磁炉",
+      "price": 41.9,
+      "count": "100"
+    }
+  ],
+  "userList": [
+    {
+      "id": 1,
+      "nickname": "zhangsan",
+      "accept": "zhangsan",
+      "password": "123",
+      "avatar": "https://gw.alicdn.com/sns_logo/TB1e4rMt8Bh1e4jSZFhXXcC9VXa-240-240.png_120x120.jpg_.webp"
+    },
+    {
+      "id": 2,
+      "nickname": "lisi",
+      "accept": "lisi",
+      "password": "123",
+      "avatar": "https://gw.alicdn.com/sns_logo/TB1e4rMt8Bh1e4jSZFhXXcC9VXa-240-240.png_120x120.jpg_.webp"
+    },
+    {
+      "id": 3,
+      "nickname": "wangwu123",
+      "accept": "wangwu",
+      "password": "123",
+      "avatar": "https://gw.alicdn.com/sns_logo/TB1e4rMt8Bh1e4jSZFhXXcC9VXa-240-240.png_120x120.jpg_.webp"
+    }
+  ]
+}
